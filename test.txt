@@ -1,1 +1,2 @@
 This is from origin 'master'
+This is from local 'master'
