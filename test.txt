@@ -1,2 +1,1 @@
-This is version4 on 'master'
-
+This is from origin 'master'
